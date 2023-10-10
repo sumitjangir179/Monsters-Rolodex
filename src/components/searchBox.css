@@ -1,0 +1,9 @@
+.searchBoxContainer{
+    text-align: center;
+    padding: 8px;
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+}
